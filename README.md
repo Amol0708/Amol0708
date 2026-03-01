@@ -1,5 +1,17 @@
 # 💫 About Me:
-🛠️ I'm currently working on<br>Building scalable fintech platforms using Python (FastAPI), React.js, and AWS, including real-time stock automation and digital asset management systems.<br>• 	👯 I'm looking to collaborate on<br>Open-source projects in backend development, cloud-native solutions, and financial technology innovations.<br>• 	🤝 I'm looking for help with<br>Advanced optimization techniques for large-scale data pipelines and exploring cutting-edge AI integrations in fintech.<br>• 	🌱 I'm currently learning<br>Rust for systems programming and deepening expertise in serverless architectures on AWS.<br>• 	💬 Ask me about<br>Python backend development, RESTful APIs, microservices, cloud deployments, and CI/CD automation.<br>• 	⚡ Fun fact<br><br>
+🛠️ I'm currently working on
+Building scalable fintech platforms using Python (FastAPI), React.js, and AWS, including real-time stock automation and digital asset management systems.<br><br>
+ 👯 I'm looking to collaborate on
+Open-source projects in backend development, cloud-native solutions, and financial technology innovations.<br><br>
+ 🤝 I'm looking for help with
+Advanced optimization techniques for large-scale data pipelines and exploring AI integrations in fintech.<br><br>
+ 🌱 I'm currently learning
+Rust for systems programming and deepening expertise in serverless architectures on AWS.<br><br>
+ 💬 Ask me about
+Python backend development, RESTful APIs, microservices, cloud deployments, and CI/CD automation.<br><br>
+ ⚡ Fun fact
+- I enjoy experimenting with new tech tools — curiosity often leads me to unexpected discoveries.<br><br>
+
 
 
 # 💻 Tech Stack:
